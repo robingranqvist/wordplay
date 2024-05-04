@@ -70,14 +70,14 @@ Wordplay has two modes - "letter" & "word".
 
 Letter animates every single letter in a line of text while word animates each word.
 
-### offset (px)
+#### offset (px)
 
 The offset is used for when you want to trigger the animation when an element based on scroll. It's very similar to Webflow's native interaction offset.
 
-### speed
+#### speed
 
 The speed of which each element (word or letter) gets revealed.
 
-### delay
+#### delay
 
 The stagger delay between each animated word or letter.
